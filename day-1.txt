@@ -1,0 +1,66 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Operating systems :
+
+Windows
+MacOS
+Linux
+
+Mobile operating systems :
+
+iOS (Closed source)
+Android (Open source)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+File formats :
+
+.docx : word document
+.pdf
+.epub : Ebook format
+.xslx : Excel File
+.pptx : Powerpoint presentation
+
+Image formats :
+
+.png
+.jpg
+.jpeg
+.HEIC
+
+Video formats :
+
+.mp4
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Visual Studio code : code editor
+IDEs : sophisticated and advanced than code editor
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Terminal :
+
+cd : Change directory (directory is synonymous to folder)
+rm : Remove File
+clear : console clear
+rmdir : remove directory
+mkdir : make directory
+pwd : present working directory
+
+cat : read file
+echo : for printing text
+touch : to make file
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Programming languages :
+
+*  You lose speed with high level languages!
+*  High level languages are easier to understand and write!
+
+Python, Java, JavaScript etc (High level languages) > Low level languages (C/C++) > Assembly language > Binary (0 or 1) > Machine
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
