@@ -92,7 +92,7 @@ man ls
 
 Commands :
 
-git init : git initialization
+git init : git initialization / add new repository
 git add . : for adding all files for tracking those
 git commit -m 'Sample message' : for committing the changes
 git push : For pushing the changes to GitHub
@@ -103,3 +103,12 @@ echo 'abcd' > filename.txt : for replacing content of the file with 'abcd'
 echo 'abcd' >> filename.txt : for appending (adding to the end of the file) content to the file
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Python : High level language (More abstraction ~ Hiding unnecessary details)
+
+File extension : .py
+
+
+
+
+
