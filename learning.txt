@@ -88,6 +88,14 @@ Examples :
 
 man ls
 
+6. history : History of commands you typed
+
+7. Ctrl + L : For moving cursor to first line of the terminal
+
+8. Ctrl + C : For aborting current running command
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 6. Git (for local machine changes) and GitHub (for remote changes)
 
 Commands :
@@ -96,6 +104,7 @@ git init : git initialization / add new repository
 git add . : for adding all files for tracking those
 git commit -m 'Sample message' : for committing the changes
 git push : For pushing the changes to GitHub
+git remote -v : for checking github url  
 
 7. echo : for writing into files
 
@@ -108,7 +117,4 @@ Python : High level language (More abstraction ~ Hiding unnecessary details)
 
 File extension : .py
 
-
-
-
-
+How to run a python program : python3 filename.py
