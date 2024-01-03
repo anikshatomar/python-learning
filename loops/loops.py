@@ -5,7 +5,7 @@
 # for i in range(0, 11):
 #     print(i)
 
-fruits = ["banana", "orange", "apple", "kiwi"]
+fruits = ["banana", "orange", "apple", "kiwi", "guava"]
 # print(fruits)
 # quit()
 
