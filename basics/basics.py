@@ -67,6 +67,10 @@
 #print(5%2)
  
 #for ex- 
-i = 5
-print(i + 5)
+# i = 5
+# print(i + 5)
+#Range :
+numbers = range(7)
+print(numbers)
+
 

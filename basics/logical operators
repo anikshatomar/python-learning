@@ -1,0 +1,7 @@
+ Logical operators: (and,or,not)
+1. and Operator: If both operators are true , result will be true 
+               If the first operator is False, returns false without evaluating the second operand
+2. or Operator :the or operator returns True if at least one operand is true.
+               if the first operand is true, returns true without evaluating the second operand.
+3. not Operator :the not operator returns the opposite boolean value of its operand. 
+for ex-  result = not True # This will be False
