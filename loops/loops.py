@@ -25,3 +25,6 @@
 #     else:
 #         print('Banana is not available!')
 
+#types of loops :- there are two types of loops which is given under below:
+# 1. while loop - while loops continues until a given condition is false . 
+# for ex-
